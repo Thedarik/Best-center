@@ -1,4 +1,4 @@
-# IELTS Test Management API
+# Best-center - IELTS Test Management API
 
 Bu FastAPI asosida yaratilgan IELTS test tizimi uchun backend API.
 
@@ -120,4 +120,4 @@ python -c "from models import create_tables; create_tables()"
 
 # Test o'tkazish
 pytest
-``` 
+```
